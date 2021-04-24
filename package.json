@@ -1,6 +1,6 @@
 {
   "name": "@arthanasti/legacy-plugin-chart-sankey-loop",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Superset Legacy Chart - Sankey Diagram with Loops",
   "sideEffects": [
     "*.css"
